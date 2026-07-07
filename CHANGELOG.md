@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [3.1.1](https://github.com/schubergphilis-ep/terraform-aws-mcaf-glue-job/compare/v3.1.0...v3.1.1) (2026-07-07)
+
+
+### 🐛 Fixes
+
+* migrate MCAF module sources ([#2](https://github.com/schubergphilis-ep/terraform-aws-mcaf-glue-job/issues/2)) ([4818825](https://github.com/schubergphilis-ep/terraform-aws-mcaf-glue-job/commit/48188254edbf1014f91676fcf2f29a41f9dfeb10))
+
 ## [3.1.0](https://github.com/schubergphilis-ep/terraform-aws-mcaf-glue-job/compare/v3.0.0...v3.1.0) (2026-06-16)
 
 
@@ -66,4 +73,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### 🚀 Features
 
 * breaking: refactored module ([#4](https://github.com/schubergphilis/terraform-aws-mcaf-glue-job/pull/4)) ([cb0b821](https://github.com/schubergphilis-ep/terraform-aws-mcaf-glue-job/commit/cb0b8213abc540859eca9df11fe8565063dc51a7))
-
