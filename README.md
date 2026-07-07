@@ -20,7 +20,7 @@ A Terraform module that creates a Glue job.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_job_execution_role"></a> [job\_execution\_role](#module\_job\_execution\_role) | schubergphilis/mcaf-role/aws | ~> 0.5.3 |
+| <a name="module_job_execution_role"></a> [job\_execution\_role](#module\_job\_execution\_role) | schubergphilis-ep/mcaf-role/aws | ~> 0.5.3 |
 
 ## Resources
 
